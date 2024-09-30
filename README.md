@@ -9,6 +9,7 @@
 2. Created a new project & gave it a name
 
 **Deploying to Firebase**
+
 Followed this guide with some modifications: https://anish-gyawali.medium.com/deploying-a-react-app-with-github-actions-and-firebase-hosting-a-beginners-guide-2f1b9f477ac3
 All commands run in root directory
 1. ran $ npm install -g firebase-tools
