@@ -96,9 +96,7 @@ export default function About() {
               <h2 className="what-card-title">Educational Outreach</h2>
               <p className="max-w-[250px] text-gray-700">
                 Educate about neurotechnology in high schools and middle
-                schools. Three schools we have collaborated with are Da Vinci
-                Charter Academy, Da Vinci High School, and Health Professions
-                High School.
+                schools.
               </p>
             </div>
           </div>
@@ -220,6 +218,54 @@ export default function About() {
       </div>
 
       {/*  END OF BCI awards    */}
+
+      {/*  Education section    */}
+
+      <div id="medium-articles" className="mt-20">
+        <h1 className="text-4xl text-center">
+          {" "}
+          <span className="font-bold">3</span> Collaborations with Local Schools{" "}
+        </h1>
+
+        <div
+          id="medium-article-cards-container"
+          className="mt-10 flex flex-col justify-center items-center gap-4 lg:flex-row "
+        >
+          <a target="_blank">
+            <div className="medium-art-card">
+              <h2 className="font-bold text-xl">Da Vinci Charter Academy</h2>
+              <p className="text-sm w-full text-gray-700">
+                {" "}
+                Summer Camp (Summer 2024)
+              </p>
+            </div>
+          </a>
+
+          <a target="_blank">
+            <div className="medium-art-card">
+              <h2 className="font-bold text-xl">
+                Health Professions High School
+              </h2>
+              <p className="text-sm w-full text-gray-700">
+                {" "}
+                After school program
+              </p>
+            </div>
+          </a>
+
+          <a target="_blank">
+            <div className="medium-art-card">
+              <h2 className="font-bold text-xl"> Da Vinci High School</h2>
+              <p className="text-sm w-full text-gray-700">
+                {" "}
+                After school program
+              </p>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      {/* END OF Education section    */}
 
       {/*  Medium article section    */}
 
