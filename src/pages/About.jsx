@@ -96,8 +96,9 @@ export default function About() {
               <h2 className="what-card-title">Educational Outreach</h2>
               <p className="max-w-[250px] text-gray-700">
                 Educate about neurotechnology in high schools and middle
-                schools. Two schools we have collaborated with are Da Vinci High
-                School and Health Professions High School.
+                schools. Three schools we have collaborated with are Da Vinci
+                Charter Academy, Da Vinci High School, and Health Professions
+                High School.
               </p>
             </div>
           </div>
