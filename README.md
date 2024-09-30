@@ -62,4 +62,5 @@ Followed these two [guide1](https://blog.stackademic.com/connect-domain-firebase
 5. clicked on hosting, scrolled to 'domains' section, and clicked on 'add custom domain'
 6. typed our domain, pressed continue, and added records required onto porkbun dns section
 7. deleted records with 'pixie.porkbun.com' or 'pixie-parking.porkbun.com' (only had domains firebase wanted listed on porkbun dns section)
-8. waited overnight for records to get approved (said 'connected' next domain in firebase console) & next morning domain displayed the website
+8. waited overnight for records to get approved
+9. once approved said 'connected' next domain in firebase console & the website could be seen from our custom domain
