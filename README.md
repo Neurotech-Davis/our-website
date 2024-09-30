@@ -58,7 +58,7 @@ Followed these two [guide1](https://blog.stackademic.com/connect-domain-firebase
 1. created a Porkbun account
 2. bought our domain: neurotechdavis.com
 3. in porkbun, hovered over domain name to select DNS (porkbun dns section)
-4. logged into firebase console & selected same project
+4. logged into firebase console & selected the same project
 5. clicked on hosting, scrolled to 'domains' section, and clicked on 'add custom domain'
 6. typed our domain, pressed continue, and added records required onto porkbun dns section
 7. deleted records with 'pixie.porkbun.com' or 'pixie-parking.porkbun.com' (only had domains firebased wanted listed on porkbun dns section)
