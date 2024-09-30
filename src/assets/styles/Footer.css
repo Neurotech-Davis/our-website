@@ -1,0 +1,9 @@
+#footer {}
+
+.blue-text {
+    color: #3069a5;
+}
+
+.footer-link:hover {
+    color: rgb(58, 57, 57)
+}
