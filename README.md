@@ -9,7 +9,7 @@
 1. created firebase console account with our club gmail
 2. created a new project & gave it a name
 3. went to Hosting & clicked 'get started'
-4. clicked next for all steps
+5. clicked next for all steps
 
 **Deploying to Firebase**
 
