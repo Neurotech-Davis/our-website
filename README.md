@@ -45,7 +45,7 @@ All commands ran in terminal at root directory
   (changes were 'uses: actions/upload-artifact@v3' and 'uses: actions/download-artifact@v3')
 19. Checked last line of main.yml file secret name matched the secret created in **Deploying to Firebase** step 4
 20. uploaded changes to github ```$ git add .; git commit -m "changes"; git push```
-21. our push manually triggered github actions to run starting a build & deploying website to firebase :)
+21. our push manually triggered github actions to run starting a build & deploying website to firebase (yay)
 
 **Viewing the Website**
 1. logged into firebase console & selected same project
@@ -64,4 +64,5 @@ Followed these two [guide1](https://blog.stackademic.com/connect-domain-firebase
 6. typed our domain, pressed continue, and added records required onto porkbun dns section
 7. deleted records with 'pixie.porkbun.com' or 'pixie-parking.porkbun.com' (only had records firebase wanted listed on porkbun dns section)
 8. waited overnight for records to get approved
-9. once approved said 'connected' next domain in firebase console & the website could be seen from our custom domain
+9. once approved said 'connected' next to custom domain in firebase console (hosting > domains)
+10. went to custom domain and website could be seen :)
