@@ -38,9 +38,9 @@ All commands ran in terminal at root directory
 16. inside workflows created a github actions file called main $ cd workflows; touch main.yml
 17. copied the yml file in step 5 in the guide
 18. modified part of the 'Archive Production Artifact' and 'Download Artifact' sections
- 1. replaced 'build' to with folder name from step 2 ('dist')
+ - replaced 'build' to with folder name from step 2 ('dist')
   (changes were 'with: name: dist path: dist')
- 2. replaced version of action to 'v3'
+ - replaced version of action to 'v3'
   (changes were 'uses: actions/upload-artifact@v3' and 'uses: actions/download-artifact@v3')
 19. Checked last line of main.yml file secret name matched the secret created in **Deploying to Firebase** step 4
 20. uploaded changes to github $ git add .; git commit -m "changes"; git push
