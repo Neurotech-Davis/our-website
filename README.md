@@ -3,7 +3,7 @@
 2. enter "npm install" in terminal once in root directory
 3. then enter "npm run dev" in terminal 
 
-# How did we Deploy to Firebase & Use a Custom Domain
+# Deploying to Firebase & Using a Custom Domain
 **Setting Up Firebase Account**
 
 [firebase console](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://console.firebase.google.com/&ved=2ahUKEwj4kYjW4OuIAxX0DzQIHZ6vE14QFnoECAkQAQ&usg=AOvVaw2FZlXJ-vssrAqr1uc6tr-x)
