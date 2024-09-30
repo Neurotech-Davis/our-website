@@ -1,9 +1,0 @@
-{
-  "hosting": {
-    "public": "src",
-    "github": {
-      "repo": "Neurotech-Davis/our-website",
-      "branch": "main"
-    }
-  }
-}
