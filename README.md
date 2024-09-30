@@ -6,14 +6,14 @@
 # How did we Deploy to Firebase & Use a Custom Domain
 **Setting Up Firebase Account**
 [firebase console](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://console.firebase.google.com/&ved=2ahUKEwj4kYjW4OuIAxX0DzQIHZ6vE14QFnoECAkQAQ&usg=AOvVaw2FZlXJ-vssrAqr1uc6tr-x)
-1. Created firebase console account with our club gmail
-2. Created a new project & gave it a name
-3. Went to Hosting & clicked 'get started'
-4. Clicked next for all steps
+1. created firebase console account with our club gmail
+2. created a new project & gave it a name
+3. went to Hosting & clicked 'get started'
+4. clicked next for all steps
 
 **Deploying to Firebase**
 
-Followed this guide with some modifications: https://anish-gyawali.medium.com/deploying-a-react-app-with-github-actions-and-firebase-hosting-a-beginners-guide-2f1b9f477ac3
+Followed this [guide with some modifications](https://anish-gyawali.medium.com/deploying-a-react-app-with-github-actions-and-firebase-hosting-a-beginners-guide-2f1b9f477ac3)
 
 All commands ran in terminal at root directory
 1. ran ```$ npm install -g firebase-tools```
@@ -46,10 +46,20 @@ All commands ran in terminal at root directory
 20. uploaded changes to github ```$ git add .; git commit -m "changes"; git push```
 21. our push manually triggered github actions to run starting a build & deploying website to firebase :)
 
+**Viewing the Website**
+1. logged into firebase console & selected same project
+2. went to hosting and then scrolled to 'domains' section
+3. clicked on one of the urls & website appeared (refreshed the website a couple times)
 
 **Using a Custom Domain**
-1. Created a Porkbun account
-2. Bought our domain: neurotechdavis.com
-3. In porkbun, hovered over domain name to select DNS
-4. Setup DNS to match firebase information
-5. 
+
+Followed these two [guide1](https://blog.stackademic.com/connect-domain-firebase-hosting-0c05a0af808b) and [guide2](https://kb.porkbun.com/article/68-how-to-edit-dns-records)
+
+1. created a Porkbun account
+2. bought our domain: neurotechdavis.com
+3. in porkbun, hovered over domain name to select DNS (porkbun dns section)
+4. logged into firebase console & selected same project
+5. clicked on hosting, scrolled to 'domains' section, and clicked on 'add custom domain'
+6. typed our domain, pressed continue, and added records required onto porkbun dns section
+7. deleted records with 'pixie.porkbun.com' or 'pixie-parking.porkbun.com' (only had domains firebased wanted listed on porkbun dns section)
+8. waited overnight for records to get approved & next morning domain displayed the website
