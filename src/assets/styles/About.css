@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Poppins font ^ from google fonts */
+* {
+    font-family: Poppins;
+}
+
+#about-background {
+    background: linear-gradient(to bottom, #bee6f4, white, white, #abe2f5);
+    padding-bottom: 5rem;
+
+}
+
+#about-header-card {
+    background: linear-gradient(white, white) padding-box,
+        linear-gradient(to right, #5de0e6, #0078a6) border-box;
+    border-radius: 3rem;
+    border: 3px solid transparent;
+
+    padding: 2.4rem;
+}
+
+.what-card {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    transition: transform 0.2s ease-out;
+
+}
+
+.what-card:hover {
+    transform: scale(1.1);
+}
+
+.what-card-title {
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.what-card-img {
+    margin-right: 1.7rem;
+    max-height: 75px;
+
+}
+
+.startup-card {
+    background: linear-gradient(white, white) padding-box,
+        linear-gradient(to right, #5de0e6, #0078a6) border-box;
+    border-radius: 2rem;
+    border: 3px solid transparent;
+    width: 400px;
+    height: 120px;
+    padding: 20px;
+    /* Adjust padding as needed */
+    box-sizing: border-box;
+    /* Ensures padding is included inside width/height */
+
+
+}
+
+.startup-card-cash {
+    font-weight: bold;
+    font-size: 2.3rem;
+    letter-spacing: 3px;
+
+    background: linear-gradient(45deg, #4b42b0, #0692c9);
+    /* Define your gradient colors */
+    -webkit-background-clip: text;
+    /* For Webkit-based browsers */
+    -webkit-text-fill-color: transparent;
+    /* For Webkit-based browsers */
+    background-clip: text;
+    /* For other browsers that support it */
+    color: transparent;
+    /* Ensures transparency in other browsers */
+}
+
+.bci-award {
+    background: linear-gradient(white, white) padding-box,
+        linear-gradient(to right, #5de0e6, #0078a6) border-box;
+    border-radius: 2rem;
+    border: 3px solid transparent;
+
+    width: 380px;
+    height: 140px;
+    padding: 1rem;
+
+}
+
+.bci-img {
+    width: 80px;
+}
+
+.medium-art-card {
+    background: linear-gradient(white, white) padding-box,
+        linear-gradient(to right, #5de0e6, #0078a6) border-box;
+    border-radius: 2rem;
+    border: 3px solid transparent;
+
+    width: 350px;
+    padding: 1rem;
+
+}
+
+.medium-art-card:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
