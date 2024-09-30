@@ -28,7 +28,7 @@ All commands ran in terminal at root directory
 9. for configuring as a single-page app, typed "Y"
 10. for setting up automatic builds and deploys with Github, typed "N"
 
-***Guide Modifications - Setting Up Github Actions***
+***Setting Up Github Actions (Guide Modifications Here)***
 
 11. ignored 'build' folder - don't need it just a formality for the steps above
 12. ran ```$ npm run build```
