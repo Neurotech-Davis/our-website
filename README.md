@@ -36,7 +36,7 @@ All commands ran in terminal at root directory
 14. created a new directory called .gitub ```$ mkdir .github```
 15. inside .gitub created a directory called workflows ```$ cd .github; mkdir workflows```
 16. inside workflows created a github actions file called main ```$ cd workflows; touch main.yml```
-17. copied the main.yml file in step 5 in the guide
+17. copied the main.yml file in step 5 in the guide to the new main.yml file created
 18. modified part of the 'Archive Production Artifact' and 'Download Artifact' sections in main.yml
  - replaced 'build' to with folder name from step 2 ('dist')
   (changes were 'with: name: dist path: dist')
