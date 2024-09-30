@@ -28,6 +28,7 @@ All commands ran in terminal at root directory
 10. for setting up automatic builds and deploys with Github, typed "N"
 
 ***Guide Modifications***
+
 11. ignored 'build' folder - don't need it just a formality for the steps above
 12. ran $ npm run build
 13. changed firebase.json line 3 ("public":"build") to "public":"<name of folder created in step 2>"
