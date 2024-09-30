@@ -48,7 +48,7 @@ All commands ran in terminal at root directory
 
 **Viewing the Website**
 1. logged into firebase console & selected same project
-2. went to hosting and then scrolled to 'domains' section
+2. clicked on 'hosting' and then scrolled to 'domains' section
 3. clicked on one of the urls & website appeared (refreshed the website a couple times)
 
 **Using a Custom Domain**
