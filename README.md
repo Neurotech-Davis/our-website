@@ -8,7 +8,7 @@
 [firebase console](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://console.firebase.google.com/&ved=2ahUKEwj4kYjW4OuIAxX0DzQIHZ6vE14QFnoECAkQAQ&usg=AOvVaw2FZlXJ-vssrAqr1uc6tr-x)
 1. created firebase console account with our club gmail
 2. created a new project & gave it a name
-3. went to Hosting & clicked 'get started'
+3. under build, clicked on 'hosting' and then clicked 'get started'
 5. clicked next for all steps
 
 **Deploying to Firebase**
