@@ -7,6 +7,8 @@
 **Setting Up Firebase Account**
 1. Created account with our club gmail
 2. Created a new project & gave it a name
+3. Went to Hosting & clicked get started
+4. Clicked next for all steps
 
 **Deploying to Firebase**
 
