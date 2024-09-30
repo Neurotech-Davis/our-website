@@ -17,7 +17,7 @@ export default function Home() {
           className="text-5xl sm:text-6xl md:text-5xl lg:text-8xl "
         >
           {" "}
-          Neurotechies <br /> @Davis
+          Neurotech <br /> @Davis
         </h1>
 
         <p
