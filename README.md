@@ -17,8 +17,8 @@ Followed this guide with some modifications: https://anish-gyawali.medium.com/de
 
 All commands ran in terminal at root directory
 1. ran $ npm install -g firebase-tools
-2. checked firebase was installed $ firebase --version
-3. logged out our firebase account $ firebase login:ci
+2. checked firebase was installed ```$ firebase --version```
+3. logged into our firebase console account ```$ firebase login:ci```
 4. followed authentication process to obtain token & added it to our github action secrets
 5. initiated firebase project $ firebase init
 6. selected option for “hosting: configure files for firebase hosting and (optionally) set up Github Action deploys”
