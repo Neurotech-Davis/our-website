@@ -10,8 +10,8 @@ import BigBang from "../assets/images/bigbang.svg";
 import Plasma from "../assets/images/plasma.png";
 import BlackStone from "../assets/images/blackstone.png";
 import LittleBang from "../assets/images/littlebang.png";
-import CNTC from "../assets/images/bciImg1.png";
-import NeurotechX from "../assets/images/bciImg2.png";
+import NeurotechX from "../assets/images/bciImg1.png";
+import CNTC from "../assets/images/bciImg2.png";
 
 export default function About() {
   return (
@@ -84,7 +84,7 @@ export default function About() {
             <div>
               <h2 className="what-card-title">Publishing Knowledge</h2>
               <p className="max-w-[250px] text-gray-700">
-                Publish articles to contribute to the global neurotech feild.
+                Publish articles to contribute to the global neurotech field.
               </p>
             </div>
           </div>
@@ -96,7 +96,8 @@ export default function About() {
               <h2 className="what-card-title">Educational Outreach</h2>
               <p className="max-w-[250px] text-gray-700">
                 Educate about neurotechnology in high schools and middle
-                schools.
+                schools. Two schools we have collaborated with are Da Vinci High
+                School and Health Professions High School.
               </p>
             </div>
           </div>
@@ -232,15 +233,14 @@ export default function About() {
           className="mt-10 flex flex-col justify-center items-center gap-4 lg:flex-row "
         >
           <a
-            href="https://medium.com/neurotech-davis/music-therapy-alzheimers-7b1fe5fe031b"
+            href="https://medium.com/neurotech-davis/the-programs-teaching-us-how-to-speak-to-animals-f97c6c029a22"
             target="_blank"
           >
             <div className="medium-art-card">
-              <h2 className="font-bold text-xl">Music Therapy & Alzheimer's</h2>
+              <h2 className="font-bold text-xl">Speaking to Animals</h2>
               <p className="text-sm w-full text-gray-700">
                 {" "}
-                Explore the prevalance of music therapy to treat neurological
-                conditions...
+                Explore the programs teaching us to how to speak to animals...
               </p>
             </div>
           </a>
