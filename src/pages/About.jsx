@@ -307,18 +307,14 @@ export default function About() {
           </a>
 
           <a
-            href="https://medium.com/neurotech-davis/beyond-the-brain-cognition-across-disciplines-8c8d63473588"
+            href="https://medium.com/neurotech-davis/coding-sentience-generative-ai-and-the-fear-of-being-turned-off-c2e22a280fce"
             target="_blank"
           >
             <div className="medium-art-card">
-              <h2 className="font-bold text-xl">
-                {" "}
-                Cognition Across Disiplines
-              </h2>
+              <h2 className="font-bold text-xl"> Coding Sentience</h2>
               <p className="text-sm w-full text-gray-700">
                 {" "}
-                Scholars from various cognitive discipines came together to
-                teach learn and discuss...
+                Generative AI and the fear of being turned off...
               </p>
             </div>
           </a>
