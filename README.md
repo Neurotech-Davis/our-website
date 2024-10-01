@@ -4,6 +4,8 @@
 3. then enter "npm run dev" in terminal 
 
 # Deploying to Firebase & Using a Custom Domain
+*Created by Priyal Patel for Neurotech@Davis*
+
 **Setting Up Firebase Console Account**
 
 [firebase console](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://console.firebase.google.com/&ved=2ahUKEwj4kYjW4OuIAxX0DzQIHZ6vE14QFnoECAkQAQ&usg=AOvVaw2FZlXJ-vssrAqr1uc6tr-x)
