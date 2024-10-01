@@ -57,7 +57,7 @@ All commands ran in terminal at root directory
 Followed these two [guide1](https://blog.stackademic.com/connect-domain-firebase-hosting-0c05a0af808b) and [guide2](https://kb.porkbun.com/article/68-how-to-edit-dns-records)
 
 1. created a Porkbun account
-2. bought our domain: neurotechdavis.com
+2. bought our custom domain
 3. in porkbun, hovered over domain name to select DNS (porkbun dns section)
 4. logged into firebase console & selected the same project
 5. clicked on hosting, scrolled to 'domains' section, and clicked on 'add custom domain'
