@@ -234,10 +234,7 @@ export default function About() {
           <a target="_blank">
             <div className="medium-art-card">
               <h2 className="font-bold text-xl">Da Vinci Charter Academy</h2>
-              <p className="text-sm w-full text-gray-700">
-                {" "}
-                Summer Camp (Summer 2024)
-              </p>
+              <p className="text-sm w-full text-gray-700"> Summer Camp</p>
             </div>
           </a>
 
@@ -248,7 +245,7 @@ export default function About() {
               </h2>
               <p className="text-sm w-full text-gray-700">
                 {" "}
-                After school program
+                In-Classroom Instruction
               </p>
             </div>
           </a>
@@ -258,7 +255,7 @@ export default function About() {
               <h2 className="font-bold text-xl"> Da Vinci High School</h2>
               <p className="text-sm w-full text-gray-700">
                 {" "}
-                After school program
+                After School Program
               </p>
             </div>
           </a>
