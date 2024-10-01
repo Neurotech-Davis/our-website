@@ -52,7 +52,7 @@ All commands ran in terminal at root directory
 2. clicked on 'hosting' and then scrolled to 'domains' section
 3. clicked on one of the urls & website appeared (refreshed the website a couple times)
 
-**Using a Custom Domain**
+**Using a Custom Domain (ex. something.com)**
 
 Followed these two [guide1](https://blog.stackademic.com/connect-domain-firebase-hosting-0c05a0af808b) and [guide2](https://kb.porkbun.com/article/68-how-to-edit-dns-records)
 
