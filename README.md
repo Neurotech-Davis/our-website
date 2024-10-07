@@ -1,6 +1,6 @@
 **Contributers**
 
-Kylie Lallak (@Kylie-Lallak), Priyal Patel (@priyalpatell) and Projects Board.
+Kylie Lallak (@Kylie-Lallak), Priyal Patel (@priyalpatell), and Projects Board.
 
 # How to run the project
 1. clone repo locally
