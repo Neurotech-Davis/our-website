@@ -8,7 +8,7 @@ Kylie Lallak (@Kylie-Lallak), Priyal Patel (@priyalpatell), and Projects Board.
 3. then enter "npm run dev" in terminal 
 
 # Deploying to Firebase & Using a Custom Domain
-*Created by Priyal Patel for Neurotech@Davis*
+*Instructions by Priyal Patel for Neurotech@Davis*
 
 **Setting Up Firebase Console Account**
 
