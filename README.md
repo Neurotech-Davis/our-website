@@ -2,8 +2,6 @@
 
 Kylie Lallak (@Kylie-Lallak), Priyal Patel (@priyalpatell), and Projects Board.
 
-[neurotechdavis.com](https://neurotechdavis.com)
-
 # How to run the project
 1. clone repo locally
 2. enter "npm install" in terminal once in root directory
