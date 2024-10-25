@@ -1,6 +1,6 @@
 **Contributers**
-
-Kylie Lallak (@Kylie-Lallak), Priyal Patel (@priyalpatell), and Projects Board.
+Kylie Lallak (@Kylie-Lallak): 'Home', 'About Us', 'Join Us' Pages Designer and Lead Developer 
+Priyal Patel (@priyalpatell): Project Manager and Developer
 
 # How to run the project
 1. clone repo locally
