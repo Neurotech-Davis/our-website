@@ -18,7 +18,7 @@ export default function JoinUs() {
         >
           <h1>Fall 2024</h1>
           <h1>Applications</h1>
-          <h1 className="blue-text">Are Open</h1>
+          <h1 className="blue-text">Are Closed</h1>
         </div>
         <img
           src={JoinUsImg}
