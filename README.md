@@ -1,5 +1,7 @@
 **Contributers**
+
 Kylie Lallak (@Kylie-Lallak): 'Home', 'About Us', 'Join Us' Pages Designer and Lead Developer 
+
 Priyal Patel (@priyalpatell): Project Manager and Developer
 
 # How to run the project
