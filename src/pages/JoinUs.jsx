@@ -16,9 +16,9 @@ export default function JoinUs() {
           id="join-header-text"
           className=" gap-2 ml-10 text-3xl font-bold md:text-6xl flex flex-col md:gap-4 "
         >
-          <h1>Fall 2024</h1>
+          <h1>Winter 2025</h1>
           <h1>Applications</h1>
-          <h1 className="blue-text">Are Closed</h1>
+          <h1 className="blue-text">Are Open</h1>
         </div>
         <img
           src={JoinUsImg}

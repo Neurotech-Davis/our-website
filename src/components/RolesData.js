@@ -9,13 +9,13 @@ const RolesData = [
     role: "Education Member",
     divison: "Education Divison",
     desc: "Lead programs in local high schools to inroduce students to the basics of neuroscience",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSfibwKvu9CAMG5nlwkZLFoyJTbGRCaj6nj4rERpxapPuAgJlg/viewform?pli=1",
+    link: "https://forms.gle/TRCvSA4vrrcErhA87",
   },
   {
     role: "Publications Member",
     divison: "Publication Division",
     desc: "Actively contribute to a variety of publications in the field of neuroscience by sharing research findings, insights, and expert analyses",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSefqbi4UvfwIPQlHE-yYHSpmjxURGGOjnTxAFdv0mRziRE_Fw/viewform",
+    link: "https://forms.gle/Vmj9T8tkagUpVMJ18",
   },
   {
     role: "Entrepreneurship Member",
