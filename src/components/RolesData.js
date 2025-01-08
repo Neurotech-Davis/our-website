@@ -8,7 +8,7 @@ const RolesData = [
   {
     role: "Education Member",
     divison: "Education Divison",
-    desc: "Lead programs in local high schools to inroduce students to the basics of neuroscience",
+    desc: "Lead programs in local high schools to introduce students to the basics of neuroscience",
     link: "https://forms.gle/TRCvSA4vrrcErhA87",
   },
   {
