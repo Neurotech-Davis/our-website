@@ -6,6 +6,9 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import JoinUs from "./pages/JoinUs";
 import Projects from "./pages/Projects";
+import Entrepreneurship from "./pages/Entrepreneurship";
+import Education from "./pages/Education";
+import Team from './pages/Team'
 import { useEffect } from "react";
 
 function App() {
@@ -22,6 +25,10 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/joinus" element={<JoinUs />} />
         <Route path="/projects" element={<Projects />} />
+        <Route path="/entrepreneurship" element={<Entrepreneurship />} />
+        <Route path="/team" element={<Team />} />
+        <Route path="/education" element={<Education />} />
+
       </Routes>
 
       <Footer />
